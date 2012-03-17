@@ -1,9 +1,8 @@
-Simple CSS3 3D Cube for Mozilla Dev Derby
-A 3D cube made with only CSS3.
-The cube turning effect also is made only with CSS3
+The Wall explosion is an CSS3 3D experiment for Mozilla Dev Derby
 
-Thanks Felipe N. Moura, for teaching me about CSS3 3D!
+Each brick is 3D, and the whole wall is also 3D.
+Push the detonator, and watch the explosion!
 
-References:
-http://www.paulrhayes.com/2009-07/animated-css3-cube-interface-using-3d-transforms/
-https://developer.mozilla.org/En/CSS/Using_CSS_transforms
+* It works in Firefox and WebKit, but in Firefox(Nightly 14), it seems to be too slow in my pc *
+* Let's test, and make some code improvements *
+
